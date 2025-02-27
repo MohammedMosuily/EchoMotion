@@ -5,7 +5,7 @@ Welcome to the **EchoMotion** project, an innovative system that utilizes **acti
 
 Below is an overview of the EchoMotion processing pipeline:
 
-![EchoMotion Pipeline](pipeline.pdf)
+![EchoMotion Pipeline](pipeline.png)
 
 
 ## Getting Started
