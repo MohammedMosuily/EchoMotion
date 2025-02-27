@@ -1,6 +1,12 @@
 # EchoMotion: Advancing Exercise Analysis with Acoustic Sensing
 
 Welcome to the **EchoMotion** project, an innovative system that utilizes **active acoustic sensing** to analyze and monitor cardio exercises. EchoMotion leverages inaudible acoustic signals and deep learning techniques to estimate **3D human poses**, enabling accurate exercise tracking in **home and lab environments**.
+## System Pipeline
+
+Below is an overview of the EchoMotion processing pipeline:
+
+![EchoMotion Pipeline](pipeline.pdf)
+
 
 ## Getting Started
 
