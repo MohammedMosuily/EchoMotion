@@ -36,7 +36,6 @@ The **`echomotion.ipynb`** script is designed to run in a Jupyter Notebook envir
 
 - `acoustic_data_folder`: Path to the directory containing recorded .wav files.
 - `ground_truth_folder`: Path to the directory containing Kinect ground truth pose data.
-- `cell_locations`: A dictionary mapping key joints (e.g., shoulders, elbows, knees) to their corresponding positions in the data files.
 
 ## Data Collection
 
