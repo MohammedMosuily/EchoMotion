@@ -42,16 +42,19 @@ Additionally, EchoMotion requires the `pipe_scripts` module in your Python path,
 
 We provide a **demo notebook** that runs the EchoMotion pipeline on a **High Knees exercise** for a single participant (**id_006**).
 
-You can download both the demo data and the full dataset here:  
+👉 Run the demo notebook here:  
+[EchoMotion Demo Code](./EchoMotion%20Demo%20Code.ipynb)
+
+You can download the required data here:  
 https://sotonac-my.sharepoint.com/:f:/g/personal/mtm1g19_soton_ac_uk/IgB1R7qlTl-QSLPl7s2R5qZyAR7HWK-2ABSGXSRdmgYVgis?e=2T9xzc
 
 ### **How to Run**
 
-1. Download the **demo notebook** (`EchoMotion Demo Code.ipynb`).  
-2. Download the folder **`id_006`**.  
-3. Place the `id_006` folder in your local environment.  
-4. Update the file path in the notebook to point to the `id_006` directory.  
-5. Run each cell sequentially.  
+1. Open the demo notebook above.
+2. Download the folder **`id_006`**.
+3. Place the `id_006` folder in your local environment.
+4. Update the file path in the notebook to point to the `id_006` directory.
+5. Run each cell sequentially.
 
 This demo shows how EchoMotion processes acoustic signals and estimates motion for the High Knees exercise.
 
