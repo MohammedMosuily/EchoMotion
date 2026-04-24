@@ -38,24 +38,24 @@ Additionally, EchoMotion requires the `pipe_scripts` module in your Python path,
 
 ---
 
-## **Demo Code and Sample Data**
+## **Demo Code and Data**
 
-We have included a **demo notebook** that demonstrates the EchoMotion pipeline using a **High Knees exercise** from a single participant.
+We provide a **demo notebook** that runs the EchoMotion pipeline on a **High Knees exercise** for a single participant (**id_006**).
 
-You can access the demo data and the full dataset here:  
+You can download both the demo data and the full dataset here:  
 https://sotonac-my.sharepoint.com/:f:/g/personal/mtm1g19_soton_ac_uk/IgB1R7qlTl-QSLPl7s2R5qZyAR7HWK-2ABSGXSRdmgYVgis?e=2T9xzc
 
-### **How to Run the Demo**
+### **How to Run**
 
-1. Download the **demo notebook** (`EchoMotion Demo Code.ipynb`).
-2. Download the folder **`id_006`** from the dataset.
-3. Place the `id_006` folder in your local environment.
-4. Update the file paths in the notebook to point to the `id_006` directory.
-5. Run the notebook cells sequentially.
+1. Download the **demo notebook** (`EchoMotion Demo Code.ipynb`).  
+2. Download the folder **`id_006`**.  
+3. Place the `id_006` folder in your local environment.  
+4. Update the file path in the notebook to point to the `id_006` directory.  
+5. Run each cell sequentially.  
 
-This demo provides a simple and reproducible example of how EchoMotion processes acoustic data and estimates motion.
+This demo shows how EchoMotion processes acoustic signals and estimates motion for the High Knees exercise.
 
-If you have any questions or encounter any issues, please feel free to contact:  
+If you have any questions, feel free to contact:  
 **mtm1g19@soton.ac.uk**
 
 ---
@@ -91,14 +91,6 @@ We use **inaudible ultrasound frequencies (17 kHz - 21 kHz)** to capture body mo
 
 ---
 
-## **Dataset Availability**
-
-The dataset will be published **once the associated research publication is accepted**. The dataset and related materials will be available at:
-
-**[Link will be updated upon release]**
-
----
-
 ## **About the Project**
 
 EchoMotion provides a **non-invasive, privacy-conscious** alternative to conventional exercise monitoring methods. The system is designed to:
@@ -108,14 +100,6 @@ EchoMotion provides a **non-invasive, privacy-conscious** alternative to convent
 - Enable **home-based exercise monitoring** with real-time feedback  
 
 For further details, please refer to the **`echomotion.ipynb`** notebook, which contains the full implementation and analysis.
-
----
-
-## **Code Availability**
-
-The source code will be published **alongside the dataset** at:
-
-**[Link will be updated upon release]**
 
 ---
 
