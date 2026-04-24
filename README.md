@@ -19,6 +19,15 @@ Watch a video demonstration of **EchoMotion** in action:
 
 ---
 
+
+## **Poster**
+
+You can view the **EchoMotion poster** here:  
+[EchoMotion Poster](./Poster%20EchoMotion.pdf)
+
+---
+
+
 ## **Getting Started**
 
 ### **Prerequisites**
